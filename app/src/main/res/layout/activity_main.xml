@@ -19,7 +19,7 @@
 
     <Button
         android:text="Count"
-        android:layout_width="358dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/bHitung" />
 </LinearLayout>
